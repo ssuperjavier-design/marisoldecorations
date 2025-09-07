@@ -62,7 +62,7 @@ Complete planning and execution from start to finish</p>
 
           <div className="relative">
             <img 
-              src="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/509576860_9945499838860894_483000244043863548_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=5AJCdfrYv1MQ7kNvwHSbv_n&_nc_oc=AdnSxD6jnc55QL8VGHxS3RQy6O7BuCMwSDQKK5iE-qzF67H7l75nUX8AVbNdcj1F4_LqC1o0zs4lSuKFCCjE6qtS&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Pm4iq-SM1VsK2Bque8eVWg&oh=00_AfaoEfoty-E8mKbXFYuzpsLs7ZrrxE_uZpqpAeCOjgOi8w&oe=68C289D3" 
+              src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/510536497_9979186328825578_5550684743508613846_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3oHIJDp9DiMQ7kNvwH3l153&_nc_oc=AdlrRMXZvobOn8c6BrdztpwuWSpD0c3zA8ZaL-oID3eAZoOuL6-1FEKS8jlTLsZMzu78Cobgvs1_Le8PYoKFPRyW&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=JdSS54kaOJvgJB08EQqcbg&oh=00_AfbSsxEyllx0lHxyJ_JnqEMTO8MY9ShbjthXfFLmOqGGTA&oe=68C3D542" 
               alt="Luxury event decoration"
               className="rounded-2xl shadow-xl w-full"
             />
