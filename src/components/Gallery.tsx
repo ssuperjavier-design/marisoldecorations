@@ -116,7 +116,7 @@ Featured Celebrations</h3>
                   onClick={() => setCurrentSlide(index)}
                   className={`w-2 h-2 md:w-3 md:h-3 rounded-full transition-all duration-300 shadow-sm ${
                     index === currentSlide ? 'bg-pink-500' : 'bg-white/50'
-                  className="w-full h-64 object-cover object-center group-hover:scale-105 transition-transform duration-300"
+                  }`}
                 />
               ))}
             </div>
