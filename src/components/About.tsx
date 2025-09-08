@@ -64,7 +64,7 @@ Complete planning and execution from start to finish</p>
             <img 
               src="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/510536497_9979186328825578_5550684743508613846_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3oHIJDp9DiMQ7kNvwH3l153&_nc_oc=AdlrRMXZvobOn8c6BrdztpwuWSpD0c3zA8ZaL-oID3eAZoOuL6-1FEKS8jlTLsZMzu78Cobgvs1_Le8PYoKFPRyW&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=JdSS54kaOJvgJB08EQqcbg&oh=00_AfbSsxEyllx0lHxyJ_JnqEMTO8MY9ShbjthXfFLmOqGGTA&oe=68C3D542" 
               alt="Luxury event decoration"
-              className="rounded-2xl shadow-xl w-full"
+              className="rounded-2xl shadow-xl w-full h-auto object-cover"
             />
             <div className="absolute -bottom-6 -right-6 bg-gradient-to-br from-pink-500 to-pink-600 text-white p-6 rounded-2xl shadow-lg">
               <div className="text-center">
