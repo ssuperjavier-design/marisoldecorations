@@ -256,7 +256,14 @@ Ready to Start Planning?</h3>
                 </a>
                 <div className="text-sm text-gray-500">o / or</div>
                 <button 
-                  onClick={() => window.open('#', '_blank')}
+                  onClick={() => {
+                    const link = document.createElement('a');
+                    link.href = '/Marisol-Decorations-Event-Lookbook.pdf';
+                    link.download = 'Marisol-Decorations-Event-Lookbook.pdf';
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                  }}
                   className="inline-flex items-center space-x-2 border-2 border-pink-500 text-pink-500 hover:bg-pink-500 hover:text-white px-6 py-3 rounded-full font-semibold transition-all duration-300"
                 >
                   <Download className="w-5 h-5" />
