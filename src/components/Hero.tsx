@@ -11,7 +11,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: "https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/509576860_9945499838860894_483000244043863548_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PO5NXzDU-M8Q7kNvwGyiyT9&_nc_oc=AdkilQ4_q1qUxryD6HLAP_IwRv2jCsoFStBD2rD93LrDYoDe6ZClbirV2P79UeDEfwWonQcaLkSjFupYXxE8rnKE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aabe7npJRYa-L1pcLlFQ7A&oh=00_AfbWPXSUjrjXqFI3onxQHWPc_EnyBuhArfBYbXTLelrvVA&oe=68CA3A93"
+          backgroundImage: "https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-9/29468597_1591937864217175_2170968237116751872_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=RAFBmZQOsTIQ7kNvwFni03S&_nc_oc=Adl0J2q6W_2IRl8nzAeKzepgVcysAQg1D_CQ9zTD3JbjFfPOUf_KECT8r4getREr7tycP_8dUF391ePmXOLS6nvI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2laRIAab5P2pR_oHPNee0g&oh=00_AfYdrTnBj1ASAVQqQ_uNfN787bi6Tek3q_LYsRRDP-2sLQ&oe=68EBECF3"
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-br from-pink-900/70 via-black/50 to-pink-900/70"></div>
