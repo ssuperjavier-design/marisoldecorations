@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Phone, Mail, MapPin, Clock, Send, Heart, Download, Eye } from 'lucide-react';
+import { Phone, Mail, MapPin, Clock, Send, Heart, Download } from 'lucide-react';
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -215,37 +215,6 @@ Ready to Start Planning?</h3>
                 Llámanos directamente para consulta inmediata o para discutir la visión de tu evento
                 Call us directly for immediate consultation or to discuss your event vision
               </p>
-              
-              {/* Event Lookbook Preview */}
-              <div className="mb-6 bg-gradient-to-br from-pink-50 to-purple-50 rounded-xl p-4 border border-pink-100">
-                <div className="flex items-center justify-center mb-3">
-                  <Eye className="w-5 h-5 text-pink-500 mr-2" />
-                  <h4 className="font-semibold text-gray-900 whitespace-pre-line">Vista Previa del Catálogo
-                  </h4>
-                </div>
-                <div className="grid grid-cols-3 gap-2 mb-3">
-                  <img 
-                    src="https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop" 
-                    alt="Quinceañera decoration preview"
-                    className="w-full h-16 object-cover rounded-lg shadow-sm"
-                  />
-                  <img 
-                    src="https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop" 
-                    alt="Wedding decoration preview"
-                    className="w-full h-16 object-cover rounded-lg shadow-sm"
-                  />
-                  <img 
-                    src="https://images.pexels.com/photos/1729797/pexels-photo-1729797.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&fit=crop" 
-                    alt="Party decoration preview"
-                    className="w-full h-16 object-cover rounded-lg shadow-sm"
-                  />
-                </div>
-                <p className="text-sm text-gray-600 whitespace-pre-line">
-                  Más de 50 páginas de inspiración y ideas para tu evento
-                  50+ pages of inspiration and ideas for your event
-                </p>
-              </div>
-              
               <div className="space-y-3">
                 <a 
                   href="tel:(650) 669-1092"
@@ -256,11 +225,11 @@ Ready to Start Planning?</h3>
                 </a>
                 <div className="text-sm text-gray-500">o / or</div>
                 <button 
-                  onClick={() => window.open('/lookbook', '_blank')}
-                  className="inline-flex items-center space-x-2 border-2 border-pink-500 text-pink-500 hover:bg-pink-500 hover:text-white px-6 py-3 rounded-full font-semibold transition-all duration-300"
+                  disabled
+                  className="inline-flex items-center space-x-2 border-2 border-gray-300 text-gray-400 px-6 py-3 rounded-full font-semibold cursor-not-allowed opacity-50"
                 >
-                  <Eye className="w-5 h-5" />
-                  <span>Ver Catálogo de Eventos / View Event Lookbook</span>
+                  <Download className="w-5 h-5" />
+                  <span>Descargar Catálogo de Eventos / Download Event Lookbook</span>
                 </button>
               </div>
             </div>
