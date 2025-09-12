@@ -11,7 +11,7 @@ export default function Hero() {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `https://scontent-sjc3-1.xx.fbcdn.net/v/t39.30808-6/509576860_9945499838860894_483000244043863548_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=PO5NXzDU-M8Q7kNvwGyiyT9&_nc_oc=AdkilQ4_q1qUxryD6HLAP_IwRv2jCsoFStBD2rD93LrDYoDe6ZClbirV2P79UeDEfwWonQcaLkSjFupYXxE8rnKE&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=Aabe7npJRYa-L1pcLlFQ7A&oh=00_AfbWPXSUjrjXqFI3onxQHWPc_EnyBuhArfBYbXTLelrvVA&oe=68CA3A93)`
+          backgroundImage: "url('https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop')"
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-br from-pink-900/70 via-black/50 to-pink-900/70"></div>
