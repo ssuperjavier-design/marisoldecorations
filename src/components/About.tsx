@@ -62,7 +62,7 @@ Complete planning and execution from start to finish</p>
 
           <div className="relative">
             <img 
-              src="https://images.pexels.com/photos/1729931/pexels-photo-1729931.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop" 
+              src="https://scontent-sjc6-1.xx.fbcdn.net/v/t1.6435-9/29468597_1591937864217175_2170968237116751872_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_ohc=RAFBmZQOsTIQ7kNvwFni03S&_nc_oc=Adl0J2q6W_2IRl8nzAeKzepgVcysAQg1D_CQ9zTD3JbjFfPOUf_KECT8r4getREr7tycP_8dUF391ePmXOLS6nvI&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=2laRIAab5P2pR_oHPNee0g&oh=00_AfYdrTnBj1ASAVQqQ_uNfN787bi6Tek3q_LYsRRDP-2sLQ&oe=68EBECF3" 
               alt="Luxury event decoration"
               className="rounded-2xl shadow-xl w-full h-auto object-cover object-center"
             />
