@@ -221,6 +221,7 @@ Ready to Start Planning?</h3>
                 <div className="flex items-center justify-center mb-3">
                   <Eye className="w-5 h-5 text-pink-500 mr-2" />
                   <h4 className="font-semibold text-gray-900 whitespace-pre-line">Vista Previa del Catálogo
+                  </h4>
                 </div>
                 <div className="grid grid-cols-3 gap-2 mb-3">
                   <img 
